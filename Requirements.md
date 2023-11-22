@@ -10,9 +10,11 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 ## Requirements
 
 - R1. The system should have **Sections Everywhere** - Refer to Templates, sections, and blocks to ensure compatibility with Online Store 2.0.
-- R2. The system should have **Discounts** - Display discount amounts for individual items and for entire orders in the cart, checkout, and order templates. Discounts must be supported on the Cart page.
-- R3. Users can checkout quickly using **Dynamic checkout buttons** and the branded button color must not be modified
-- R4. Users can checkout quickly using **Accelerated checkout buttons** and the branded button color must not be modified
-- R5. Users should be able to view products on the **Product page**
-- R6. Users should be able to view added items in the cart on the **Cart page**
-- R7. 
+- R2. The system should display **Discount amounts for individual items**
+- R3. The system should display **Discount amounts for entire orders** in the Cart, Checkout, and Order templates.
+- R4. Users should be able to view **Discounts** on the Cart page.
+- R5. Users can checkout quickly using **Dynamic checkout buttons** and the branded button color must not be modified
+- R6. Users can checkout quickly using **Accelerated checkout buttons** and the branded button color must not be modified
+- R7. Users should be able to view products on the **Product page**
+- R8. Users should be able to view added items in the cart on the **Cart page**
+- R9. 
