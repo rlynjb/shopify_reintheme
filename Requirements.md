@@ -19,4 +19,7 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 - R8. Users should be able to view added items in the cart on the **Cart page**
 - R9. Users can filter **(Faceted search filtering)** on **Collection** based on product availability, price, type, vendor, and variant options.
 - R10. Users can filter **(Faceted search filtering)** on **Search pages** based on product availability, price, type, vendor, and variant options.
-- R11. 
+- R11. Users can purchase **Gifts Cards**
+- R12. The system should be able to display Gift Card items on a **Gift Card page** upon User purchased.
+- R13. The system supports **Image focal points** to display the focal point of an image. Focal points can be set in the theme editor image_picker setting, or from the Files page in the Shopify admin.
+- R14. 
