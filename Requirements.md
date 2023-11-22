@@ -9,4 +9,7 @@ We may also need to implement Vue store or react. Some kind of headless ecommerc
 
 ## Requirements
 
-R1. asdasd
+R1. System should have "Sections Everywhere" - Refer to Templates, sections, and blocks to ensure compatibility with Online Store 2.0.
+R2. System should have "Discounts" - Display discount amounts for individual items and for entire orders in the cart, checkout, and order templates. Discounts must be supported on the Cart page.
+R3. System should have "Dynamic checkout buttons" - Include Dynamic checkout buttons and Accelerated checkout buttons so that customers can checkout quickly.
+R4. 
