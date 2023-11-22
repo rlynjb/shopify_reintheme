@@ -17,4 +17,6 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 - R6. Users can checkout quickly using **Accelerated checkout buttons** and the branded button color must not be modified
 - R7. Users should be able to view products on the **Product page**
 - R8. Users should be able to view added items in the cart on the **Cart page**
-- R9. 
+- R9. Users can filter **(Faceted search filtering)** on **Collection** based on product availability, price, type, vendor, and variant options.
+- R10. Users can filter **(Faceted search filtering)** on **Search pages** based on product availability, price, type, vendor, and variant options.
+- R11. 
