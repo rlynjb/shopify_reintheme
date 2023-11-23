@@ -46,8 +46,3 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 - R33. The system should enable the theme to use **variant images** feature
 - R34. Customers should be able to follow a store in the Shop app (**Follow on Shop**).
 - R35. The system should Add a **Follow on Shop** button using the login_button Liquid filter.
-
-## Technical/Non-Functional? Requirements
-
-Merchants can use **sections** and **blocks** to arrange **page templates**, which provides more flexibility in their store's content, and allows them to control the look and feel of their online store without needing to edit code.
-
