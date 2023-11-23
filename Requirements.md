@@ -7,7 +7,7 @@ Ease of use, usability, and web accessibility are the main priorities.
 <br>
 We may also need to implement Vue store or react. Some kind of headless e-commerce system to easily keep tech stack up to date with the latest tech, easily integrate with mobile shopping and 3rd party services, and solve performance issues.
 
-## Requirements
+## Feature Requirements
 
 - R1. The system should have **Sections Everywhere** - Refer to Templates, sections, and blocks to ensure compatibility with Online Store 2.0.
 - R2. The system should display **Discount amounts for individual items**
@@ -46,4 +46,8 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 - R33. The system should enable the theme to use **variant images** feature
 - R34. Customers should be able to follow a store in the Shop app (**Follow on Shop**).
 - R35. The system should Add a **Follow on Shop** button using the login_button Liquid filter.
+
+## Technical Requirements
+
+Merchants can use **sections** and **blocks** to arrange **page templates**, which provides more flexibility in their store's content, and allows them to control the look and feel of their online store without needing to edit code.
 
