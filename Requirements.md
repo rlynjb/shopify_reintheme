@@ -35,29 +35,15 @@ We may also need to implement Vue store or react. Some kind of headless e-commer
 - R22. The system should display an automatically generated **list of related product recommendations** on product pages that can help to increase online store sales.
 - R23. Merchants can optionally display other products to product pages that pair well with a product. **(Complementary product recommendations)**
 - R24. The system must support a way for Merchants to add a **Complementary Products** to product pages.
-- R25. Merchant can optionally add **Rich product media** (3D Models, embedded videos/vimeo/youtube) in product template, featured production section, product forms such as quick view features.
-- R26. 
-- 
--
-- R25. Search box or a link to search - The search box or a link to search must include the following:
-A search template
-Predictive search functionality
-- R26. Selling plans - Merchants are able to create selling plans to offer subscriptions. Selected selling plans need to be shown to customers in the cart and on customer order pages.
-Selling plans must be supported on the following pages:
-Cart page
-Customer page
-Learn more about subscriptions.
-- R27. Shop Pay Installments - Add a Shop Pay Installments banner on product.liquid to let customers know that they have the option to pay for their order using installments. Shop Pay Installments must be supported on the Product page.
-Learn more about Shop Pay Installments.
-- R28. Unit pricing - Merchants in some areas are required to show unit prices.
-Unit pricing must be supported on the following pages:
-Collection page
-Product page
-Cart page
-Customer page
-Learn more about how merchants can add unit prices to products in France and Germany.
-- R29. Variant images - Enable themes to use variant images so that merchants can associate an image with a product variant.
-Learn more about adding images to product variants.
-- R30. Follow on Shop - Add a Follow on Shop button using the login_button Liquid filter to enable a customer to follow a store in the Shop app.
-Learn more about Follow on Shop.
+- R25. Merchants can optionally add **Rich product media** (3D Models, embedded videos/vimeo/youtube) in product templates, featured product sections, and product forms such as quick view features.
+- R26. Customers can search throughout the store using a **Search box or a link to search** and must include 1.) A search template 2.) Predictive search functionality
+- R27. Selling plans - Merchants are able to create **selling plans** to offer subscriptions.
+- R28. Customers are able to view the selected **selling plans** on the cart page and order pages.
+- R29. Shop Pay Installments - Customers must be able to have the option to pay for their order using installments.
+- R30. The system should display **Shop Pay Installaments banner** on the Product page.
+- R31. Merchants in some areas are required to show **unit prices** in Collection, Product, Cart, Customer pages.
+- R32. Merchants must be able to associate an **image with a product variant**.
+- R33. The system should enable the theme to use **variant images** feature
+- R34. Customers should be able to follow a store in the Shop app (**Follow on Shop**).
+- R35. The system should Add a **Follow on Shop** button using the login_button Liquid filter.
 
