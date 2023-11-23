@@ -32,7 +32,7 @@ Primary are humans or external systems that interact with the system. Secondary 
 - able to associate an image with a product variant.
 
 ## Secondary actors
-#### Theme
+#### Theme/System
 - Manage Templates
 - Manage Sections
 - Manage Blocks
