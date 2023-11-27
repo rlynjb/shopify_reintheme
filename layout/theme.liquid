@@ -40,6 +40,15 @@
 
     <link href="https://cdn.jsdelivr.net/npm/daisyui@4.4.9/dist/full.min.css" rel="stylesheet" type="text/css" />
     <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+      /**
+        Global styles
+        TODO: transfer to assets/global.css
+      */
+      svg.icon {
+        max-width: 2em;
+      }
+    </style>
 
 
     {{ content_for_header }}
@@ -231,10 +240,6 @@
     -->
 
     <!--
-    {{ 'base.css' | asset_url | stylesheet_tag }}
-    -->
-
-    <!--
     {%- unless settings.type_body_font.system? -%}
       <link rel="preload" as="font" href="{{ settings.type_body_font | font_url }}" type="font/woff2" crossorigin>
     {%- endunless -%}
@@ -265,9 +270,7 @@
     </script>
   </head>
 
-  <body
-    class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}"
-  >
+  <body>
     <div class="container mx-auto">
       <div class="text-center">
         <a
