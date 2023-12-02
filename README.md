@@ -21,6 +21,7 @@ Repro steps:
 1. Run `shopify theme dev --store {store-name}` https://shopify.dev/docs/themes/getting-started/create
 2. Getting Ruby version error. Fix: https://stackoverflow.com/questions/10940736/rbenv-not-changing-ruby-version
 3. Check which shell you are using and then apply export PATH...
+4. Add Github repo to Shopify Themes Library by going to `Themes > Theme library > Add theme > Connect from Github`
 
 --------------------------------
 
